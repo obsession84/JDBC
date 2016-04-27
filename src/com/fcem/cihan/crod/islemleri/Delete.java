@@ -24,7 +24,11 @@ public class Delete {
 		// yeni degisklikler
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
-		
+
+		// tekrar DELETE_01 kanalýna donus yaptým
+		// yeni degisklikler
+		System.out.println("sdaf scd");
+		System.out.println("sdaf scd");
 
 	}
 
