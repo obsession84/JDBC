@@ -6,13 +6,20 @@ public class Delete {
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
-		//sdfkhjnhljh
+		// sdfkhjnhljh
+		// yeni degisklikler
+		System.out.println("sdaf scd");
+		System.out.println("sdaf scd");
+		System.out.println("sdaf scd");
+		System.out.println("sdaf scd");
+
+		//DELETE_02 ayrý bir branch olusturdum
 		//yeni degisklikler
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
-		
+
 	}
 
 }
