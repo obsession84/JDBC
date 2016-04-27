@@ -6,13 +6,30 @@ public class Delete {
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
-		//sdfkhjnhljh
-		//yeni degisklikler
+		// sdfkhjnhljh
+		// yeni degisklikler
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
-		
+
+		// DELETE_02 ayrý bir branch olusturdum
+		// yeni degisklikler
+		System.out.println("sdaf scd");
+		System.out.println("sdaf scd");
+		System.out.println("sdaf scd");
+		System.out.println("sdaf scd");
+
+		// DELETE_02 devam ediyorum
+		// yeni degisklikler
+		System.out.println("sdaf scd");
+		System.out.println("sdaf scd");
+
+		// tekrar DELETE_01 kanalýna donus yaptým
+		// yeni degisklikler
+		System.out.println("sdaf scd");
+		System.out.println("sdaf scd");
+
 	}
 
 }
