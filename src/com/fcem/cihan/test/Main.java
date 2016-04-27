@@ -8,6 +8,10 @@ public class Main {
 		System.err.println("dsfcsfgd");
 		System.err.println("dsfcsfgd");
 		System.err.println("dsfcsfgd");
+		System.err.println("dsfcsfgd");
+		System.err.println("degýslýklýk");
+		System.err.println("degýslýklýk");
+		System.err.println("degýslýklýk");
 	}
 
 }
