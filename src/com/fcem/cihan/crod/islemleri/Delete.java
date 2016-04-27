@@ -6,8 +6,13 @@ public class Delete {
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
 		System.out.println("sdaf scd");
-		System.out.println("sdaf scd");
 		//sdfkhjnhljh
+		//yeni degisklikler
+		System.out.println("sdaf scd");
+		System.out.println("sdaf scd");
+		System.out.println("sdaf scd");
+		System.out.println("sdaf scd");
+		
 	}
 
 }
